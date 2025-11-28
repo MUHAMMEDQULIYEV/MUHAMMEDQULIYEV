@@ -29,7 +29,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=MUHAMMEDQULIYEV&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MUHAMMEDQULIYEV&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
