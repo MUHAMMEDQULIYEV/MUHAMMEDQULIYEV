@@ -50,4 +50,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MUHAMMEDQULIYEV&color=blue)
 
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<!-- Proudly created with GPRM (https ://gprm.itsvg.in) -->
