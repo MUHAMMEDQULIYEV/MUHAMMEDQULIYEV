@@ -40,9 +40,4 @@ I learn by implementing things from scratch: first the math, then the code, then
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MUHAMMEDQULIYEV&color=blue)
 
-What changed:
-- Fixed the broken cards: the streak now uses the working host, and I removed Trophies and Top Repo because their hosting is dead.
-- Removed the quote card. It doesn't tell anyone anything about you.
-- Added an intro and a "Currently building" section. This is the part a recruiter actually reads.
-- Tech stack: added PyTorch and Kaggle, and FastAPI because you have a FastAPI repo. I removed Django and Anaconda. Add Django back if you've actually built something with it.
-- Stats and Top Languages now sit side by side. HTML and CSS are hidden from the languages card because they're mostly leftovers from notebook exports, not real web work.
+
