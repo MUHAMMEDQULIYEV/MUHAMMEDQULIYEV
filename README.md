@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · muhammedquliyev</sub></p>
 <h1>Mahammad</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>LLM engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Baku</sub></p>
